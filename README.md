@@ -38,27 +38,23 @@ _
 PARA QUE DISFRUTES TODA LA SAZON DE NUESTRO PAIS
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+### publicidad⚙️
 
-## Ejecutando las pruebas ⚙️
+_![image](https://user-images.githubusercontent.com/75385422/112398999-6545e680-8cd3-11eb-809d-9517b6abb75d.png)
+_
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+### esta es la publicidad del restaurante
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
+_![image](https://user-images.githubusercontent.com/75385422/112399312-0634a180-8cd4-11eb-9648-29ad31ff2bed.png)
+_
 
 ```
-Da un ejemplo
+cerro e maco
 ```
+
+### ejemplo de cerro e maco
+
+_![image](https://user-images.githubusercontent.com/75385422/112400449-64fb1a80-8cd6-11eb-90e4-cec9c4dbaa65.png)
 
 ## Despliegue 📦
 
